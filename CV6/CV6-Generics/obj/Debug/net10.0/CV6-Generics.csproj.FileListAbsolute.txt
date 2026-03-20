@@ -1,0 +1,14 @@
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\bin\Debug\net10.0\CV6-Generics.exe
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\bin\Debug\net10.0\CV6-Generics.deps.json
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\bin\Debug\net10.0\CV6-Generics.runtimeconfig.json
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\bin\Debug\net10.0\CV6-Generics.dll
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\bin\Debug\net10.0\CV6-Generics.pdb
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\CV6-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\CV6-Generics.AssemblyInfoInputs.cache
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\CV6-Generics.AssemblyInfo.cs
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\CV6-Generics.csproj.CoreCompileInputs.cache
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\CV6-Generics.dll
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\refint\CV6-Generics.dll
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\CV6-Generics.pdb
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\CV6-Generics.genruntimeconfig.cache
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\CV6-Generics\obj\Debug\net10.0\ref\CV6-Generics.dll

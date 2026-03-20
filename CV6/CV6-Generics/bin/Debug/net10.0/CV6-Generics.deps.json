@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CV6-Generics/1.0.0": {
+        "runtime": {
+          "CV6-Generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CV6-Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

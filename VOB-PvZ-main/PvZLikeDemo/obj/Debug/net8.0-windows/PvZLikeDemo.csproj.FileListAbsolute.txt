@@ -1,0 +1,14 @@
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\bin\Debug\net8.0-windows\PvZLikeDemo.exe
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\bin\Debug\net8.0-windows\PvZLikeDemo.deps.json
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\bin\Debug\net8.0-windows\PvZLikeDemo.runtimeconfig.json
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\bin\Debug\net8.0-windows\PvZLikeDemo.dll
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\bin\Debug\net8.0-windows\PvZLikeDemo.pdb
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\PvZLikeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\PvZLikeDemo.AssemblyInfoInputs.cache
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\PvZLikeDemo.AssemblyInfo.cs
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\PvZLikeDemo.csproj.CoreCompileInputs.cache
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\PvZLikeDemo.dll
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\refint\PvZLikeDemo.dll
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\PvZLikeDemo.pdb
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\PvZLikeDemo.genruntimeconfig.cache
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\VOB-PvZ-main\PvZLikeDemo\obj\Debug\net8.0-windows\ref\PvZLikeDemo.dll

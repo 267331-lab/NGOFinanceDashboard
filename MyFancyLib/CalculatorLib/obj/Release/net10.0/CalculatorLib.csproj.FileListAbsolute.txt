@@ -1,0 +1,11 @@
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\bin\Release\net10.0\CalculatorLib.deps.json
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\bin\Release\net10.0\CalculatorLib.dll
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\bin\Release\net10.0\CalculatorLib.pdb
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\obj\Release\net10.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\obj\Release\net10.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\obj\Release\net10.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\obj\Release\net10.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\obj\Release\net10.0\CalculatorLib.dll
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\obj\Release\net10.0\refint\CalculatorLib.dll
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\obj\Release\net10.0\CalculatorLib.pdb
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\MyFancyLib\CalculatorLib\obj\Release\net10.0\ref\CalculatorLib.dll

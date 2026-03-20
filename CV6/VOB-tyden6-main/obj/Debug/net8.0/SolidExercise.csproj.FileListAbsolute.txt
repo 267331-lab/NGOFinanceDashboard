@@ -1,0 +1,14 @@
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\bin\Debug\net8.0\SolidExercise.exe
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\bin\Debug\net8.0\SolidExercise.deps.json
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\bin\Debug\net8.0\SolidExercise.runtimeconfig.json
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\bin\Debug\net8.0\SolidExercise.dll
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\bin\Debug\net8.0\SolidExercise.pdb
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\SolidExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\SolidExercise.AssemblyInfoInputs.cache
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\SolidExercise.AssemblyInfo.cs
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\SolidExercise.csproj.CoreCompileInputs.cache
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\SolidExercise.dll
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\refint\SolidExercise.dll
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\SolidExercise.pdb
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\SolidExercise.genruntimeconfig.cache
+C:\Users\venca\OneDrive\Plocha\VUT\VOB - OOP\CV6\VOB-tyden6-main\obj\Debug\net8.0\ref\SolidExercise.dll

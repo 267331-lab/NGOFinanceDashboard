@@ -1,0 +1,4 @@
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\cviko05-03\VOB-tyden4-main\plant\obj\Debug\net8.0\Plant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\cviko05-03\VOB-tyden4-main\plant\obj\Debug\net8.0\Plant.AssemblyInfoInputs.cache
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\cviko05-03\VOB-tyden4-main\plant\obj\Debug\net8.0\Plant.AssemblyInfo.cs
+C:\Users\venca\OneDrive\Plocha\VOB - OOP\cviko05-03\VOB-tyden4-main\plant\obj\Debug\net8.0\Plant.csproj.CoreCompileInputs.cache

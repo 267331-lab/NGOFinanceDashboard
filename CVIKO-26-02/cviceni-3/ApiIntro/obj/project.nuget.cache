@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFCJKqMCSLk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\venca\\OneDrive\\Plocha\\VOB - OOP\\CVIKO-26-02\\cviceni-3\\ApiIntro\\ApiIntro.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\YourPath\\nupkgs' doesn't exist.",
+      "projectPath": "C:\\Users\\venca\\OneDrive\\Plocha\\VOB - OOP\\CVIKO-26-02\\cviceni-3\\ApiIntro\\ApiIntro.csproj",
+      "filePath": "C:\\Users\\venca\\OneDrive\\Plocha\\VOB - OOP\\CVIKO-26-02\\cviceni-3\\ApiIntro\\ApiIntro.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
