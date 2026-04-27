@@ -1,0 +1,10 @@
+public static int Calculate(int x) 
+{ 
+    // Validation is done explicitly, not via exception-catching
+    if (x < 0) 
+    {
+        throw new ArgumentOutOfRangeException(nameof(x), "Input must be non-negative.");
+    }
+
+    return x * 2;
+}
